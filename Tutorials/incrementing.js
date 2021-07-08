@@ -14,3 +14,7 @@ myVar++;
 console.log(myVar);
 
 // Run this code by writing in the terminal `node PATH_TO_JS_FILE`
+
+// for subtraction
+myVar--;
+console.log(myVar);
