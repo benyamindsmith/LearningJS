@@ -18,3 +18,22 @@ console.log(myVar);
 // for subtraction
 myVar--;
 console.log(myVar);
+
+// You can add/subtract other numbers to myVar by using
+// += and  -=
+
+myVar += 12;
+
+console.log(myVar);
+
+myVar -= 12;
+
+console.log(myVar);
+
+// Similarly with multiplication/ division we can use *= and /=
+
+myVar *= 2;
+console.log(myVar);
+
+myVar /= 7;
+console.log(myVar);
