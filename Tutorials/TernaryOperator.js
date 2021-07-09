@@ -1,6 +1,6 @@
 function theWinner(a, b) {
   // Question mark is the Ternary Operator
-  return a > b ? "A is bigger" : "B is equal to a or bigger";
+  return a > b ? "A is bigger" : a < b ? "B is bigger" : "Tie";
 }
 
 console.log(theWinner(4, 2));
