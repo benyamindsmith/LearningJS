@@ -23,7 +23,10 @@ var numbersList = [
   [3, 4, 5],
   [6, 7, 8, 9],
 ];
-var product = 0;
+// Because we are multiplying, we need to instailize product being
+// equal to 1
+
+var product = 1;
 
 for (var i = 0; i < numbersList.length; i++) {
   for (var j = 0; j < numbersList[i].length; j++) {
