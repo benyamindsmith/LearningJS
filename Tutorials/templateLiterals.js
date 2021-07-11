@@ -21,5 +21,3 @@ for (let i = 0; i < 3; i++) {
   let newGreeting = `Hello, my name is ${peeps[i].firstName} and I am ${peeps[i].age} years old`;
   console.log(newGreeting);
 }
-
-console.log(peeps[0]);
