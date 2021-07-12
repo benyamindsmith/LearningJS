@@ -10,14 +10,69 @@
   </head>
   <body>
     <!--Unordered List- for example a shopping list-->
+    <h3>Grocery List</h3>
     <ul>
       <!--For each item we want to add to this list,
               we need to create a list <li></li> tag-->
-
       <li>Bread dough</li>
       <li>Tomato sauce</li>
       <li>cheese</li>
       <li>peppers</li>
+      <!--Nows a perfect time to introduce a CSS topic regarding lists
+          We're not learning CSS right now but here we go!-->
+    </ul>
+
+    <h3>Grocery List</h3>
+    <!--If we want to change the bullet points we use the style feature-->
+    <ul style="list-style-type: georgian">
+      <li>Bread dough</li>
+      <li>Tomato sauce</li>
+      <li>cheese</li>
+      <li>peppers</li>
+      <!--Nows a perfect time to introduce a CSS topic regarding lists
+          We're not learning CSS right now but here we go!-->
+    </ul>
+
+    <!--Now, lets work on Ordered Lists-->
+    <!--Play with the order bullets with the `type` feature
+        I = Roman Numerals
+    `start` chooses our starting value -->
+    <h3>My To-Do list</h3>
+    <ol type="I" start="101">
+      <li>Pour Cereal in Bowl</li>
+      <li>Add 2% milk to ceral</li>
+      <li>Eat the cereal</li>
+      <li>Rinse the bowl</li>
+    </ol>
+    <!--Description List-->
+
+    <h3>Web Dev Languages</h3>
+    <dl>
+      <!--dt =description term-->
+      <dt>HTML</dt>
+      <!--dd=description details-->
+      <dd>- adds structure to web page</dd>
+      <dt>CSS</dt>
+      <dd>- adds style to webpage</dd>
+      <dt>JavaScript</dt>
+      <dd>-adds functionality to webpage</dd>
+    </dl>
+    <!--Now lets talk about nested lists -->
+    <!--Example of a nested list-->
+    <h3>Grocery List 2.0</h3>
+    <ul>
+      <li>Bread dough</li>
+      <li>Tomato sauce</li>
+      <li>cheese</li>
+      <li>
+        toppings
+        <!--between the list item tags we can make another list-->
+        <ul>
+          <li>peppers</li>
+          <li>mushrooms</li>
+          <li>olives</li>
+        </ul>
+      </li>
     </ul>
   </body>
 </html>
