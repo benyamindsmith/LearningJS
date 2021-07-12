@@ -21,3 +21,9 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 Bold text, highlighted text, small text, subscript text, supertext. The works.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Text%20Formatting)
+
+### 4. Links and Images
+
+`<a>` and `<img>` tags. Its pretty cool. Learn how to redirect to new pages and make download links.
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Links%20and%20images)
