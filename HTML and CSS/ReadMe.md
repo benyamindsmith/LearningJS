@@ -8,6 +8,6 @@ The codes here are from [Bro Code's HTML and CSS Tutorial](https://www.youtube.c
 
 ### 1. Basic Skeleton of HTML
 
-The first formal rules I learned about HTML.
+The first formal rules I learned about HTML. See the code [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Basic%20Skeleton)
 
-See the code [here]()
+### 2.
