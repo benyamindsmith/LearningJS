@@ -14,4 +14,10 @@ The first formal rules I learned about HTML. See the folder [here](https://githu
 
 Basic understanding of how headings, paragraph, line break (`<br>`) and horizonal rule (`<hr>`) tags work. The exercise file consists of a webpage with multiple translations of the famous lorem text blob.
 
-See the [folder here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Comments%20headings%20and%20Spacing)
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Comments%20headings%20and%20Spacing)
+
+### 3. Text Formatting
+
+Bold text, highlighted text, small text, subscript text, supertext. The works.
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Text%20Formatting)
