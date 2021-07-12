@@ -33,3 +33,9 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 Learn about unordered lists (`<ul></ul>`),ordered lists (`<ol></ol>`), descriptive lists (`<dt></dt>`) and nested lists.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Lists)
+
+### 6. Tables
+
+Learn about `<table>` tags and `<th>` (table heading) and `<tr>` (table row) tags. Create a table with a border. Work with coloring cells and adding borders.
+
+See the folder [here]((https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Tables)
