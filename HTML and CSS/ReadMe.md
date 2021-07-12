@@ -27,3 +27,9 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 `<a>` and `<img>` tags. Its pretty cool. Learn how to redirect to new pages and make download links.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Links%20and%20Images)
+
+### 5. Lists
+
+Learn about unordered lists (`<ul></ul>`),ordered lists (`<ol></ol>`), descriptive lists (`<dt></dt>`) and nested lists.
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Lists)
