@@ -26,4 +26,4 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 
 `<a>` and `<img>` tags. Its pretty cool. Learn how to redirect to new pages and make download links.
 
-See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Links%20and%20images)
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Links%20and%20Images)
