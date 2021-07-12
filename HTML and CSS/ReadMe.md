@@ -39,3 +39,7 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 Learn about `<table>` tags and `<th>` (table heading) and `<tr>` (table row) tags. Create a table with a border. Work with coloring cells and adding borders.
 
 See the folder [here]((https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Tables)
+
+### 7. Audio
+
+Include Audio on the HTML page. Pretty cool!
