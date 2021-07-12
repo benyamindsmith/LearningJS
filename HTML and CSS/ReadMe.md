@@ -10,4 +10,8 @@ The codes here are from [Bro Code's HTML and CSS Tutorial](https://www.youtube.c
 
 The first formal rules I learned about HTML. See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Basic%20Skeleton)
 
-### 2.
+### 2. Comments Headings and Spacings
+
+Basic understanding of how headings, paragraph, line break (`<br>`) and horizonal rule (`<hr>`) tags work. The exercise file consists of a webpage with multiple translations of the famous lorem text blob.
+
+See the [folder here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Comments%20headings%20and%20Spacing)
