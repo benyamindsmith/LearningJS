@@ -47,3 +47,5 @@ Include Audio on the HTML page. Its pretty cool!
 - Learn about the `<audio>` tag and how to enable stuff like auto-play, controls and muting!
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Audio)
+
+### 7. Video
