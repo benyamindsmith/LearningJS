@@ -53,3 +53,9 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 Pretty my much the same thing as `<audio>` but with video files.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Video)
+
+### 8. Buttons
+
+Create buttons, create alerts, redirect to Google with `<a>` tags and buttons and style it with CSS.
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Buttons)
