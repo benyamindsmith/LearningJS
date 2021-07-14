@@ -49,3 +49,7 @@ Include Audio on the HTML page. Its pretty cool!
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Audio)
 
 ### 7. Video
+
+Pretty my much the same thing as `<audio>` but with video files.
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Video)
