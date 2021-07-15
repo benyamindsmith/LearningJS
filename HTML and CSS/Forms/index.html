@@ -1,0 +1,115 @@
+<html <!DOCTYPE html>
+  <html>
+    <head>
+      <title>Test Website</title>
+    </head>
+    <body>
+      <!--The <form> tag for making forms-->
+      <!--The action attribute instructs what to do when the form is submitted. It could be a php script or some other action etc.-->
+      <form action="DO_SOMETHING.php">
+        <!--Wrap our input title in the <label> tags
+            "for" attribute is the identifier-->
+        <label for="first_name"> First Name: </label>
+        <!--Link the label with the input with the "id" attribute
+         in the <input> tag-->
+        <!--the placeholder attribute gives the user an idea of what sort of text we want (its the grey text)-->
+        <input
+          type="text"
+          id="first_name"
+          name="first_name"
+          placeholder="Spongebob"
+        />
+        <!--The "id" attribute is a client side identifier when using php and javascript; the "name" attribute is used during form submission when using a server side language (like javascript or php)-->
+        <br />
+        <br />
+        <!--Same code but for last name-->
+        <label for="last_name"> Last Name: </label>
+        <input
+          type="text"
+          id="last_name"
+          name="last_name"
+          placeholder="Squarepants"
+        />
+        <br />
+        <br />
+
+        <!--Now lets look at some other types of inputs-->
+
+        <label for="title"> Title: </label>
+        <label for="Mr."> Mr.</label>
+        <!--If we don't have the name attribute we will be able to select 
+        multiple inputs, so we want to be able to only select one at a time, therefore we will define the name attribute which all has the same name -->
+        <input type="radio" value="Mr." id="Mr." name="title" />
+        <label for="Mrs."> Mrs.</label>
+        <input type="radio" value="Mrs." id="Mrs." name="title" />
+        <label for="Miss."> Miss.</label>
+        <input type="radio" value="Miss." id="Miss." name="title" />
+        <label for="Dr"> Dr.</label>
+        <input type="radio" value="Dr." id="Dr." name="title" />
+        <!--We now deselect any other choices when another title is selected-->
+        <br />
+        <br />
+        <label for="payment"> Payment: </label>
+        <!--create a dropdown menu of different payment options-->
+        <select id="payment">
+          <option value="visa">Visa</option>
+          <option value="mastercard">mastercard</option>
+          <option value="american_express">AM Express</option>
+          <option value="interac">Interac</option>
+        </select>
+        <br />
+        <br />
+        <label for="email"> Email: </label>
+        <input
+          type="email"
+          id="email"
+          name="email"
+          placeholder="Example@gmail.com"
+        />
+        <br />
+        <br />
+        <label for="birthday"> Birthday: </label>
+        <input type="date" id="birthday" name="birthday" />
+        <br />
+        <br />
+        <label for="quantity"> Quantity: </label>
+        <!--Limit the quantity using the min and max attribute 
+            (Don't want to have negative quantity or too big quantities)-->
+        <input type="number" name="quantity" min="0" max="10" />
+        <br />
+        <br />
+        <label for="phone_number"> Phone Number: </label>
+        <input type="tel" id="phone_number" name="phone_number" />
+        <br />
+        <br />
+        <label for="password"> Password: </label>
+        <input type="password" id="password" name="password" maxlength="12" />
+        max is 12 characters
+        <br />
+        <br />
+        <label for="rate_us"> Rate us: </label>
+        <!--Using a slider-->
+        <!--step attribute should be a range bettween 1-100
+        because our rating is from 1-5 we need 4 spaces; so step length=25;
+        setting default value as 100 gives the default rating as 5-->
+        1<input type="range" step="25" value="100" />5
+        <br />
+        <br />
+        <label for="subscribe"> Subscribe </label>
+        <br />
+        <br />
+        <label for="upload_file"> Upload a file: </label>
+        <br />
+        <br />
+
+        <!--Lets create some buttons-->
+        <!--lets create a reset button-->
+        <input type="reset" />
+        <!--Lets create a submit button-->
+        <input type="submit" />
+        <!--if we were to click on this, it will send whatever information there is the page listed on the action attribute in the <form> tag
+        Because we don't have any server the page will redirect to an error-->
+      </form>
+    </body>
+  </html>
+</html>
