@@ -81,3 +81,5 @@ _ upload inputs
 Additionally, get a clearer idea of how the reset button works and how the submit button works.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Forms)
+
+# 10. Meta tags
