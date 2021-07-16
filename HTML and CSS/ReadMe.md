@@ -83,3 +83,7 @@ Additionally, get a clearer idea of how the reset button works and how the submi
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Forms)
 
 # 10. Meta tags
+
+Learn about defining your websites charset, keywords, author,description, viewport size and refresh rate.
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Meta%20Tags)
