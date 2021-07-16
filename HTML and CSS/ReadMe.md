@@ -6,41 +6,43 @@ The codes here are from [Bro Code's HTML and CSS Tutorial](https://www.youtube.c
 
 ## Table of Contents
 
-### 1. Basic Skeleton of HTML
+### <u>HTML</u>
+
+#### 1. Basic Skeleton of HTML
 
 The first formal rules I learned about HTML. See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Basic%20Skeleton)
 
-### 2. Comments Headings and Spacings
+#### 2. Comments Headings and Spacings
 
 Basic understanding of how headings, paragraph, line break (`<br>`) and horizonal rule (`<hr>`) tags work. The exercise file consists of a webpage with multiple translations of the famous lorem text blob.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Comments%20headings%20and%20Spacing)
 
-### 3. Text Formatting
+#### 3. Text Formatting
 
 Bold text, highlighted text, small text, subscript text, supertext. The works.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Text%20Formatting)
 
-### 4. Links and Images
+#### 4. Links and Images
 
 `<a>` and `<img>` tags. Its pretty cool. Learn how to redirect to new pages and make download links.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Links%20and%20Images)
 
-### 5. Lists
+#### 5. Lists
 
 Learn about unordered lists (`<ul></ul>`),ordered lists (`<ol></ol>`), descriptive lists (`<dt></dt>`) and nested lists.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Lists)
 
-### 6. Tables
+#### 6. Tables
 
 Learn about `<table>` tags and `<th>` (table heading) and `<tr>` (table row) tags. Create a table with a border. Work with coloring cells and adding borders.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Tables)
 
-### 7. Audio
+#### 7. Audio
 
 Include Audio on the HTML page. Its pretty cool!
 
@@ -48,19 +50,19 @@ Include Audio on the HTML page. Its pretty cool!
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Audio)
 
-### 7. Video
+#### 8. Video
 
 Pretty my much the same thing as `<audio>` but with video files.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Video)
 
-### 8. Buttons
+#### 9. Buttons
 
 Create buttons, create alerts, redirect to Google with `<a>` tags and buttons and style it with CSS.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Buttons)
 
-### 9. Forms
+#### 10. Forms
 
 Lots of different input types. Linking inputs by names.
 
@@ -93,20 +95,22 @@ Additionally, get a clearer idea of how the reset button works and how the submi
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Forms)
 
-# 10. Meta tags
+#### 11. Meta tags
 
 Learn about defining your websites charset, keywords, author,description, viewport size and refresh rate.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Meta%20Tags)
 
-# 11. Colors
+#### 12. Colors
 
 Change the colors of text and various elements using the inline style tags.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Colors)
 
-# 12. `<span>` and `<div>` tags
+#### 13. `<span>` and `<div>` tags
 
 Tags which allow you to work on individual chunks of data. `<div>` tags are very similar to `<span>` tags except `<div>` tags treats the content within its tags as block level element and will be moved to another line while `<span>` tags will not dop that
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/HTML/Span%20and%20Div%20Tags)
+
+### <u>CSS</u>
