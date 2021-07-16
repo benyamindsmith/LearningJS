@@ -6,6 +6,36 @@ The codes here are from [Bro Code's HTML and CSS Tutorial](https://www.youtube.c
 
 ## Table of Contents
 
+#### [HTML](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#html)
+
+1.  [Basic Skeleton of HTML](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#1-basic-skeleton-of-html)
+
+2.  [Comments Headings and Spacings](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#2-comments-headings-and-spacings)
+
+3.  [Text Formatting](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#3-text-formatting)
+
+4.  [Links and Images](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#4-links-and-images)
+
+5.  [Lists](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#5-lists)
+
+6.  [Tables](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#6-tables)
+
+7.  [Audio](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#7-audio)
+
+8.  [Video](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#8-video)
+
+9.  [Buttons](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#9-buttons)
+
+10. [Forms](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#10-forms)
+
+11. [Meta tags](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#11-meta-tags)
+
+12. [Colors](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#12-colors)
+
+13. [<span> and <div> tags](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#13-span-and-div-tags)
+
+#### [CSS](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#css)
+
 ### <u>HTML</u>
 
 #### 1. Basic Skeleton of HTML
