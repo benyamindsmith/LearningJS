@@ -98,3 +98,15 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 Learn about defining your websites charset, keywords, author,description, viewport size and refresh rate.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Meta%20Tags)
+
+# 11. Colors
+
+Change the colors of text and various elements using the inline style tags.
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Colors)
+
+# 12. `<span>` and `<div>` tags
+
+Tags which allow you to work on individual chunks of data. `<div>` tags are very similar to `<span>` tags except `<div>` tags treats the content within its tags as block level element and will be moved to another line while `<span>` tags will not dop that
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Span%20and%20Div%20Tags)
