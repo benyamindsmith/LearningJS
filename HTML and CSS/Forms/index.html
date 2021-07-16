@@ -96,9 +96,18 @@
         <br />
         <br />
         <label for="subscribe"> Subscribe </label>
+        <input type="checkbox" id="sunscribe" name="subscribe" />
         <br />
         <br />
         <label for="upload_file"> Upload a file: </label>
+        <!--Limit the type of files you can accept with the `accept`
+        attribute; for example. accept only images-->
+        <input
+          type="file"
+          id="upload_file"
+          name="upload_file"
+          accept="image/*"
+        />
         <br />
         <br />
 

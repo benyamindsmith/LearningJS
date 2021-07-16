@@ -59,3 +59,25 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 Create buttons, create alerts, redirect to Google with `<a>` tags and buttons and style it with CSS.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Buttons)
+
+### 9. Forms
+
+Lots of different input types. Linking inputs by names.
+
+Learn about:
+_ the `<form>` tag
+_ text inputs
+_ radio inputs (controlling for only one/multiple choice(s))
+_ select inputs (dropdown menu)
+_ email inputs
+_ date inputs
+_ numeric inputs
+_ phone number inputs
+_ password inputs (blocked text)
+_ range (slider) inputs
+_ checkbox inputs
+_ upload inputs
+
+Additionally, get a clearer idea of how the reset button works and how the submit button works.
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS/Forms)
