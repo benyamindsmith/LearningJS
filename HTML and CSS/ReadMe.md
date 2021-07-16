@@ -18,7 +18,7 @@ The codes here are from [Bro Code's HTML and CSS Tutorial](https://www.youtube.c
 
 5.  [Lists](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#5-lists)
 
-6.  [Tables](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#6-tables)
+6.  [Tables](https://github.com/benyamindsmith/LearningS/tree/main/HTML%20and%20CSS#6-tables)
 
 7.  [Audio](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#7-audio)
 
@@ -32,7 +32,7 @@ The codes here are from [Bro Code's HTML and CSS Tutorial](https://www.youtube.c
 
 12. [Colors](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#12-colors)
 
-13. [<span> and <div> tags](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#13-span-and-div-tags)
+13. [`<span>` and `<div>` tags](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#13-span-and-div-tags)
 
 #### [CSS](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#css)
 
