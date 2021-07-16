@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<!--You can use CSS in a variety of ways.
+      1. inline
+      2. internally
+      3. externally-->
+
+<html>
+  <head>
+    <title>CSS Demo</title>
+    <!--Internal styling: use the style tags in the header-->
+    <style>
+      /* If we want to color a particular paragraph, list the tag and apply the CSS*/
+      #paragraph1 {
+        /* for the p tag with the id `#pagargaph1` */
+        background-color: purple;
+        color: palevioletred;
+      }
+      /*Target class with `.{class}`*/
+      .top {
+        background-color: black;
+        color: cyan;
+      }
+      /*We can additionally do this with the external css file (see index2.html and index2.css)*/
+    </style>
+  </head>
+
+  <body>
+    <!--Using CSS inline; use the style attribute-->
+    <h1 style="background-color: midnightblue; color: mintcream">CSS Demo</h1>
+    <h2 class="top">Top</h2>
+    <p class="top">
+      Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus
+      iure sunt esse commodi nihil numquam mollitia, neque a at vel quas, fugit
+      ab dignissimos deleniti laboriosam nobis autem repellat in.
+    </p>
+    <p id="paragraph1">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod est aliquid
+      assumenda accusantium aspernatur veritatis, eum commodi ut id laborum
+      error, cum, odit facilis quasi quos optio saepe fugiat consequatur.
+    </p>
+
+    <p id="paragraph2">
+      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod est aliquid
+      assumenda accusantium aspernatur veritatis, eum commodi ut id laborum
+      error, cum, odit facilis quasi quos optio saepe fugiat consequatur.
+    </p>
+  </body>
+</html>
