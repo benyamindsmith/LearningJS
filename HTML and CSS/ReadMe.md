@@ -65,18 +65,29 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 Lots of different input types. Linking inputs by names.
 
 Learn about:
-_ the `<form>` tag
-_ text inputs
-_ radio inputs (controlling for only one/multiple choice(s))
-_ select inputs (dropdown menu)
-_ email inputs
-_ date inputs
-_ numeric inputs
-_ phone number inputs
-_ password inputs (blocked text)
-_ range (slider) inputs
-_ checkbox inputs
-_ upload inputs
+
+- the `<form>` tag
+
+- text inputs
+
+- radio inputs (controlling for only one/multiple choice(s))
+
+- select inputs (dropdown menu)
+- email inputs
+
+- date inputs
+
+- numeric inputs
+
+- phone number inputs
+
+- password inputs (blocked text)
+
+- range (slider) inputs
+
+- checkbox inputs
+
+- upload inputs
 
 Additionally, get a clearer idea of how the reset button works and how the submit button works.
 
