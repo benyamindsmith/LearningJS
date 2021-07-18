@@ -6,6 +6,8 @@ const request = new XMLHttpRequest();
 // We can track the progress of our events by using an
 // event listener called `readystatechange`
 request.addEventListener("readystatechange", () => {
+  //console.log(request.readyState);
+
   //We get 4 different types of states that appear in
   // the console. But what do they mean?
   /* 

@@ -65,3 +65,24 @@ Need to add links
 ---->
 
 [folder]()
+
+### Chapter 3: Status codes
+
+<!---
+Need to add links
+---->
+
+Experimenting with status codes.
+
+In summary
+
+200 codes: Successful responses
+
+300 codes: Redirection messages
+
+400 codes: User error messages
+
+500 codes: Server error messages.
+[folder]()
+
+### Chapter 4: Callback Functions
