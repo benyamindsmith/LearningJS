@@ -44,11 +44,7 @@ Asynchronous code offers a solution for this by allowing code to start when it i
 
 See the `sandbox.js` file for detailed comments.
 
-<!---
-Need to add links
----->
-
-[folder]()
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_1)
 
 ## Chapter 2: HTTP Requests.
 
@@ -60,17 +56,9 @@ Sometimes we want to display some stuff that is in a database or stored on a ser
 
 We're going to be practicing with the [JSONPlaceholder API](https://jsonplaceholder.typicode.com) which allows us to play with HTTP requests and JSON data.
 
-<!---
-Need to add links
----->
-
-[folder]()
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_2)
 
 ### Chapter 3: Status codes
-
-<!---
-Need to add links
----->
 
 Experimenting with status codes.
 
@@ -83,6 +71,15 @@ In summary
 400 codes: User error messages
 
 500 codes: Server error messages.
-[folder]()
+
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_3)
 
 ### Chapter 4: Callback Functions
+
+See the comments in the code. A working example for how asynchronous code works. Create a asynchronous function. Work with error handling.
+
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_4)
+
+### Chapter 5: Using JSON Data
+
+JSON data is just a string that looks like a Javascript object. Learn how to turn a JSON string into a javascript object.
