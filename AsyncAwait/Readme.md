@@ -85,3 +85,13 @@ See the comments in the code. A working example for how asynchronous code works.
 JSON data is just a string that looks like a Javascript object. Learn how to turn a JSON string into a javascript object.
 
 [folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_5)
+
+### Chapter 6: Callback Purgatory
+
+So far we have only been calling our function `getTodos()` once to get the `todos.json` file. But what if we have multiple JSON files which we want to get interred (By interred we mean, request one file and wait till it is loaded and displayed before getting the other file.)?
+
+The following codes provides an example of whats commonly reffered to as ["Callback Purgatory"](http://callbackhell.com). To remidey this, we need to look at something reffered to as "Promises".
+
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_6)
+
+### Chapter 7: Promises

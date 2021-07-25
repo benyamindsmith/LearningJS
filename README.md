@@ -18,7 +18,7 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/OOP
 
 ### 3. Async/Await
 
-I was really excited to get into learning frameworks but as I started learning Node.js I realized I had a gap in my understandng asynchronous javascript. Instead of going ahead and "winging it" I thought it would be better to use my time properly learning how this works and having my own snippets to remind myself how this works. The codes are based on [The Net Ninja's](https://www.youtube.com/watch?v=ZcQyJ-gxke0&list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu) video series on the topic.
+I was really excited to get into learning frameworks but as I started learning Node.js I realized I had a gap in my understandng asynchronous javascript. Instead of going ahead and "winging it" I thought it would be better to use my time properly learning how this works and having my own snippets to remind myself how this works. The codes are based on what I learned using the [The Net Ninja's](https://www.youtube.com/watch?v=ZcQyJ-gxke0&list=PL4cUxeGkcC9jx2TTZk3IGWKSbtugYdrlu) video series on the topic.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait)
 
