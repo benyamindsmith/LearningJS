@@ -95,3 +95,15 @@ The following codes provides an example of whats commonly reffered to as ["Callb
 [folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_6)
 
 ### Chapter 7: Promises
+
+After looking at "Callback Purgatory" and how messy writing code in this manner can be. We explore the world of using promises which make for cleaner code.
+
+The following codes present an example of what promises look like. Read the comments to follow whats happening in the code.
+
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_7)
+
+### Chapter 8: Chaining Promises
+
+In Progress- nothing new here (yet)
+
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_7)
