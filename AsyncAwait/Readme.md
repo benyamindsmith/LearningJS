@@ -107,3 +107,11 @@ The following codes present an example of what promises look like. Read the comm
 Chaining promises offers a more linear view for writing code which execute sequentially. The code does not look like the "triangle" produced when writing callbacks traditionally.
 
 [folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_8)
+
+### Chapter 9: The Fetch API
+
+So far when we've been making HTTP requests we have been using the `XMLHttpRequest` object to do that. While that is a completely valid way to do that. There is a newer and quicker was to to do make these requests using the native Fetch API.
+
+This is great because it requires us to write much less code than using the `XMLHttpRequest` object and also impliments the Promises API underneath the hood which makes handling accepting and rejecting requests easier too.
+
+[folder]https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_9)
