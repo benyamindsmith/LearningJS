@@ -114,6 +114,12 @@ So far when we've been making HTTP requests we have been using the `XMLHttpReque
 
 This is great because it requires us to write much less code than using the `XMLHttpRequest` object and also impliments the Promises API underneath the hood which makes handling accepting and rejecting requests easier too.
 
-[folder]https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_9)
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_9)
 
 ### Chapter 10: Async & Await
+
+`async` and `await` are new features which have been introduced to Javascript. While using the Fetch API can be alot cleaner than using Promises, if we are writing alot of chained statements, it can still begin to look quite messy.
+
+The following codes present an example of `async` and `await` and their usage.
+
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_10)
