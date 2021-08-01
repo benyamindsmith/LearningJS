@@ -126,6 +126,6 @@ The following codes present an example of `async` and `await` and their usage.
 
 ### Chapter 11: Throwing errors
 
-In conclusion we discuss how to throw some custom errors in our code.
+In conclusion we discuss how to throw some custom errors in our code. JSON data has been intentionally messed up for the error catching.
 
 [folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_11)
