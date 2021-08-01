@@ -104,6 +104,6 @@ The following codes present an example of what promises look like. Read the comm
 
 ### Chapter 8: Chaining Promises
 
-In Progress- nothing new here (yet)
+Chaining promises offers a more linear view for writing code which execute sequentially. The code does not look like the "triangle" produced when writing callbacks traditionally.
 
-[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_7)
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_8)
