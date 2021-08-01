@@ -123,3 +123,9 @@ This is great because it requires us to write much less code than using the `XML
 The following codes present an example of `async` and `await` and their usage.
 
 [folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_10)
+
+### Chapter 11: Throwing errors
+
+In conclusion we discuss how to throw some custom errors in our code.
+
+[folder](https://github.com/benyamindsmith/LearningJS/tree/main/AsyncAwait/Chapter_11)
