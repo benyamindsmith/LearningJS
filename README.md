@@ -1,5 +1,7 @@
 # LearningJS
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png)
+
 A Repository of my Adventures with Javascript.
 
 ## Table of Contents
@@ -29,6 +31,10 @@ After a couple of attempts with trying to learn React and other frameworks, I re
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS)
 
 ### 5. React.js
+
+The following are codes that I wrote while learning React with [FreeCodeCamp's 2019 React for Beginners Course](https://www.youtube.com/watch?v=DLX62G4lc44&t=17s). This is one of the more popular Javascript Frameworks. So I thought I would give it a shot.
+
+See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/React)
 
 ### 6. Node.js and Express.js
 
