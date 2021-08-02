@@ -1,4 +1,4 @@
-<img src = "https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/image.png"/>
+<img src = "https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/image.png" width = 100%/>
 
 # React
 
