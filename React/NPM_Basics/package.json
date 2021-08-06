@@ -1,0 +1,14 @@
+{
+  "name": "learningreact",
+  "version": "1.0.0",
+  "description": "<img src = \"https://quintagroup.com/cms/js/js-image/react.js-logo.png/@@images/image.png\"/>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0"
+  }
+}

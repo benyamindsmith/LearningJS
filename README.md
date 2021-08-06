@@ -32,7 +32,7 @@ See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/HTM
 
 ### 5. React.js
 
-The following are codes that I wrote while learning React with [FreeCodeCamp's 2019 React for Beginners Course](https://www.youtube.com/watch?v=DLX62G4lc44&t=17s). This is one of the more popular Javascript Frameworks. So I thought I would give it a shot.
+The following are codes that I wrote while learning React with [FreeCodeCamp's Full React Course 2020](https://www.youtube.com/watch?v=4UZrsTqkcW4). This is one of the more popular Javascript Frameworks. So I thought I would give it a shot.
 
 See the folder [here](https://github.com/benyamindsmith/LearningJS/tree/main/React)
 
