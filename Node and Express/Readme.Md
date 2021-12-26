@@ -12,6 +12,20 @@ With the help of Node.js, it has never been easier to build full stack applicati
 
 With this in mind, lets get into learning Node.js!
 
+### The difference between Browser JavaScript and Node.js
+
+When working with Node you have **no access to browser APIs**. So that means:
+
+- no DOM
+
+- No Geolocation
+
+- No Fetch
+
+- or any cool browser goodies.
+
+With Node we are interested in **server side apps**.
+
 ### 1.
 
 ### 2.
