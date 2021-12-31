@@ -2,9 +2,16 @@
 
 # LearningJS
 
-A Repository of my Adventures with Javascript.
+A Repository of my Adventures with Javascript. 
 
 ## Table of Contents
+
+1. [Tutorials](https://github.com/benyamindsmith/LearningJS#1-tutorials)
+2. [OOP](https://github.com/benyamindsmith/LearningJS#2-oop)
+3. [Async/Await](https://github.com/benyamindsmith/LearningJS#3-asyncawait)
+4. [HTML and CSS](https://github.com/benyamindsmith/LearningJS#4-html-and-css)
+5. [React.js](https://github.com/benyamindsmith/LearningJS#5-reactjs)
+6. [Node.js and Express.js](https://github.com/benyamindsmith/LearningJS#6-nodejs-and-expressjs)
 
 ### 1. Tutorials
 
