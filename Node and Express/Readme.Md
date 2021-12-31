@@ -1,10 +1,20 @@
 # Node and Express
 
+![](https://res.cloudinary.com/practicaldev/image/fetch/s--_QMQU86---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/6dnng3pre04xxdebia1g.png)
+
 ## Table of Contents
 
-## Node.js
+- [What is Node.js?](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Readme.Md#what-is-nodejs)
+- [The difference between Browser JavaScript and Node.js](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Readme.Md#the-difference-between-browser-javascript-and-nodejs)
+- [intro.js](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Readme.Md#1-introjs)
+- [Modules](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Readme.Md#2-4-modules)
+- [Built in Modules](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Readme.Md#5-built-in-modules)
+  i. [os](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Readme.Md#51-os)
+  ii. [path](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Readme.Md#52-path)
+  iii. [fs]()
+  iv. [http]()
 
-![](https://brandslogos.com/wp-content/uploads/thumbs/nodejs-logo-vector.svg)
+## Node.js
 
 ### What is Node.js?
 
@@ -30,7 +40,7 @@ With Node we are interested in **server side apps**.
 
 ### 1. intro.js
 
-Pretty basic stuff. Nothing exciting but I am following along. Check out the file [here](https://github.com/benyamindsmith/LearningJS/tree/main/Node%20%and%20%eExpress/Node/1-intro.js).
+Pretty basic stuff. Nothing exciting but I am following along. Check out the file [here](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Node/1-intro.js).
 
 ### 2-4. Modules
 
@@ -40,11 +50,11 @@ Showing how to use modules for making cleaner code. Pretty cool. Check out the f
 
 #### 5.1 OS
 
-The `os` module is really useful for getting information on our computer which we are using and the operating system. Check out the file [here](https://github.com/benyamindsmith/LearningJS/tree/main/Node%20%and%20%eExpress/Node/5.1-os.js) for some basic functions.
+The `os` module is really useful for getting information on our computer which we are using and the operating system. Check out the file [here](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Node/5.1-os.js) for some basic functions.
 
 #### 5.2 PATH
 
-The `path` module is useful for modifying and manipulating path variables. Check out the file [here]((https://github.com/benyamindsmith/LearningJS/tree/main/Node%20%and%20%eExpress/Node/5.2-path.js) for some basic functions.
+The `path` module is useful for modifying and manipulating path variables. Check out the file [here]((https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Node/5.2-path.js) for some basic functions.
 
 #### 5.3 FS
 
