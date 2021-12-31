@@ -34,7 +34,7 @@ The codes here are from [Bro Code's HTML and CSS Tutorial](https://www.youtube.c
 
 13. [`<span>` and `<div>` tags](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#13-span-and-div-tags)
 
-#### [CSS](https://github.com/benyamindsmith/LearningJS/tree/main/HTML%20and%20CSS#css)
+#### [CSS](https://github.com/benyamindsmith/LearningJS/blob/main/HTML%20and%20CSS/ReadMe.md#css-1)
 
 ### <u>HTML</u>
 
