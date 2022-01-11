@@ -12,6 +12,7 @@
   i. [os](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Readme.Md#51-os)
   ii. [path](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Readme.Md#52-path)
   iii. [fs]()
+  iv. [asyncronous fs]()
   iv. [http]()
 
 ## Node.js
@@ -48,6 +49,8 @@ Showing how to use modules for making cleaner code. Pretty cool. Check out the f
 
 ### 5. Built in Modules
 
+There are more than these listed, but for this tutorial only these were be covered.
+
 #### 5.1 OS
 
 The `os` module is really useful for getting information on our computer which we are using and the operating system. Check out the file [here](https://github.com/benyamindsmith/LearningJS/blob/main/Node%20and%20Express/Node/5.1-os.js) for some basic functions.
@@ -58,9 +61,15 @@ The `path` module is useful for modifying and manipulating path variables. Check
 
 #### 5.3 FS
 
-#### 5.4 HTTP
+The `fs` module is useful for reading and modifying files. Check out the file [here]() for some basic usage.
 
-There are more but for this tutorial only these will be covered.
+#### 5.4 Asyncronous FS
+
+The code used in 5.3 is syncronous. This means that the code is procedural and can result in slow response times. Asycronous code works around this. Check out the file [here]() for usage.
+
+#### 5.5 HTTP
+
+The `http` is a module is 
 
 ## Express.js
 
