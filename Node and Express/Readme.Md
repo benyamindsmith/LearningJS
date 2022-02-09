@@ -69,10 +69,18 @@ The code used in 5.3 is syncronous. This means that the code is procedural and c
 
 #### 5.5 HTTP
 
-The `http` is a module is 
+The `http` is a module is crutal when looking to spin up a server and work with networking. See my code for spinning up some basic webpages [here]()
+
+### NPM
+
+When we install Node, NPM comes installed with it. NPM allows us to intall packages that we need for our development.
 
 ## Express.js
 
 ### 1.
 
 ### 2.
+
+## Websockets
+
+Some work on my understanding of how websockets work. Based on information from this video [here](https://www.youtube.com/watch?v=FduLSXEHLng&ab_channel=dcode).

@@ -1,17 +1,8 @@
-http = require('http');
-                                 //request, result
-const server = http.createServer((req, res) => { 
-    if (req.url === '/'){
-        res.end('Welcome to the home page')
-    }
 
-    if (req.url === '/about') {
-        res.end('This is the about page')
-    }
+const _ = require('lodash');
 
-    res.end(`<p>404.</p>
-    <a href="/"> Back home</a>`)
-});
+const items = [1, [2, [3, [4]]]]
 
-server.listen(5000)
-// go to localhost:5000- We have made a website!
+const flatList = _.flattenDeep(items);
+
+console.log(flatList)
